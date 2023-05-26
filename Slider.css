@@ -1,0 +1,8 @@
+@import "~slick-carousel/slick/slick.css";
+@import "~slick-carousel/slick/slick-theme.css";
+
+h3 {
+  background-color: gray;
+  width: 500px;
+  height: 300px;
+}
